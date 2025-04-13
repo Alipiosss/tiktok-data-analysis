@@ -25,6 +25,13 @@ To perform an exploratory data analysis (EDA) and communicate findings through v
 - Tableau (for advanced visualization)
 - Jupyter Notebook
 
+## 📊 All visualizations are included in the Jupyter notebook `tiktok_analysis.ipynb`.
+
+## ⚠️ Disclaimer
+- This project was developed for educational purposes as part of the Google Advanced Data Analytics Certificate.  
+- The dataset used is part of the course materials and is intended for academic exploration only.  
+- All insights and visualizations are original and developed independently, based on the dataset used in the course exercise. No proprietary Coursera content is included in this repository.
+
 ## 📬 Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/suzanaalipio)  
 or reach out via email at suzanaalipio@gmail.com
