@@ -11,7 +11,7 @@ To perform an exploratory data analysis (EDA) and communicate findings through v
 - `tiktok_dataset.csv` — Original dataset
 - `tiktok_analysis.ipynb` — Jupyter notebook with data exploration, cleaning, and visualization
 - `executive_summary.pdf` — 1-page summary of findings and recommendations
-- Link to Tableau Story: https://public.tableau.com/shared/43JHKCSBP?:display_count=n&:origin=viz_share_link
+- Link to Tableau Story: [View on Tableau Public](https://public.tableau.com/shared/43JHKCSBP?:display_count=n&:origin=viz_share_link)
 
 
 ## 📈 Key Insights
