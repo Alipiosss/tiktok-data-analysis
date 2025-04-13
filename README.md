@@ -32,6 +32,8 @@ To perform an exploratory data analysis (EDA) and communicate findings through v
 - The dataset used is part of the course materials and is intended for academic exploration only.  
 - All insights and visualizations are original and developed independently, based on the dataset used in the course exercise. No proprietary Coursera content is included in this repository.
 
+## 📄 This project is released under the [CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
+
 ## 📬 Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/suzanaalipio)  
 or reach out via email at suzanaalipio@gmail.com
