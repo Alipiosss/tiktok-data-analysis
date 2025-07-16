@@ -27,12 +27,8 @@ To perform an exploratory data analysis (EDA) and communicate findings through v
 
 ## 📊 All visualizations are included in the Jupyter notebook `tiktok_analysis.ipynb`.
 
-## ⚠️ Disclaimer
-- This project was developed for educational purposes as part of the Google Advanced Data Analytics Certificate.  
-- The dataset used is part of the course materials and is intended for academic exploration only.  
-- All insights and visualizations are original and developed independently, based on the dataset used in the course exercise. No proprietary Coursera content is included in this repository.
-
-## 📄 This project is released under the [CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
+## 🛡️ License
+This project is for educational purposes under the guidelines of the Google Advanced Data Analytics Certificate. No commercial use intended.
 
 ## 📬 Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/suzanaalipio)  
